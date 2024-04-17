@@ -1,0 +1,27 @@
+[
+    {
+        "name":"AKASH",
+        "id":"001",
+        "city":"LUCKNOW"
+    },
+    {
+        "name":"ASHWANI",
+        "id":"002",
+        "city":"DELHI"
+    },
+    {
+        "name":"HARMAN",
+        "id":"003",
+        "city":"NEW YORK"
+    },
+    {
+        "name":"MANISH",
+        "id":"004",
+        "city":"GOA"
+    },
+    {
+        "name":"AKASH",
+        "id":"001",
+        "city":"Lucknow"
+    }
+]
